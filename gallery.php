@@ -2198,7 +2198,7 @@
           
           
           <!-------------------------------- Single Marker Granite -------------------------------->
-          <div class="col l4 m6 s12 gallery-item gallery-expand gallery-filter sing-mark-gran">
+          <div class="col l4 m6 s12 gallery-item gallery-expand gallery-filter sing-mark-gran" id="sing-mark-gran">
             <div class="gallery-curve-wrapper">
               <a class="gallery-cover gray">
                 <img class="responsive-img" src="img/HM_130rn_.jpg" alt="Single Marker Granite">
@@ -4831,7 +4831,7 @@
           
           
           <!-------------------------------- Single Monument -------------------------------->
-          <div class="col l4 m6 s12 gallery-item gallery-expand gallery-filter sing-monu">
+          <div class="col l4 m6 s12 gallery-item gallery-expand gallery-filter sing-monu" id="sing-monu">
             <div class="gallery-curve-wrapper">
               <a class="gallery-cover gray">
                 <img class="responsive-img" src="img/HM_100rn_.jpg" alt="Single Monument">
