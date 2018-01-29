@@ -41,6 +41,7 @@
           <li><a href="featured.php">Gallery</a></li>
           <li><a href="terms.php">Our Terms</a></li>
           <li><a class='dropdown-button' href='about.php' data-activates='about-dropdown' data-belowOrigin="true" data-constrainWidth="false">About Us<i class="material-icons right">arrow_drop_down</i></a></li>
+          <li><a href="epitaphs.php">Epitaphs</a></li>
           <li><a href="contact.php">Contact Us</a></li>
         </ul>
         <!-- Dropdown Structure -->
@@ -97,6 +98,7 @@
       <li><a href="terms.php"><i class="material-icons">brightness_3</i>Terms and Conditions</a></li>
       <li><a href="about.php"><i class="material-icons">brightness_3</i>About Us</a></li>
       <li><a href="testimonials.php"><i class="material-icons">edit</i>Testimonials</a></li>
+      <li><a href="epitaphs.php"><i class="material-icons">edit</i>Epitaphs</a></li>
       <li><a href="contact.php"><i class="material-icons">edit</i>Contact Us</a></li>
     </ul>
 

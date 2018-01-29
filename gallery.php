@@ -61,19 +61,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -105,19 +93,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -148,20 +124,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -193,19 +157,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -237,19 +189,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -281,19 +221,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -325,19 +253,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -369,19 +285,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -413,19 +317,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -457,19 +349,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -501,19 +381,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -545,19 +413,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -589,19 +445,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -633,19 +477,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -677,19 +509,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -721,19 +541,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -765,19 +573,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -809,19 +605,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -853,19 +637,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -897,19 +669,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -941,19 +701,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -985,19 +733,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1029,19 +765,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1073,19 +797,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1117,19 +829,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1161,19 +861,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1205,19 +893,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1249,19 +925,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1293,19 +957,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1337,19 +989,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1381,19 +1021,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1425,19 +1053,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1469,19 +1085,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1513,19 +1117,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1557,19 +1149,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1601,19 +1181,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1645,19 +1213,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1689,19 +1245,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1733,19 +1277,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1777,19 +1309,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1821,19 +1341,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1865,19 +1373,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1909,19 +1405,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1953,19 +1437,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -1997,19 +1469,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2041,19 +1501,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2085,19 +1533,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2129,19 +1565,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2173,19 +1597,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2212,34 +1624,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2253,19 +1639,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2285,34 +1659,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2326,19 +1674,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2358,34 +1694,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2399,19 +1709,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2431,34 +1729,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2472,18 +1744,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2503,34 +1764,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2544,19 +1779,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2576,34 +1799,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2617,19 +1814,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2649,34 +1834,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2690,19 +1849,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2722,34 +1869,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2763,19 +1884,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2795,34 +1904,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2836,19 +1919,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2868,34 +1939,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2909,19 +1954,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -2941,34 +1974,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -2982,19 +1989,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3014,34 +2009,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3055,19 +2024,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3087,34 +2044,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3128,19 +2059,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3160,34 +2079,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3201,18 +2094,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3232,34 +2114,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3273,19 +2129,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3305,34 +2149,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3346,19 +2164,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3378,34 +2184,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3419,18 +2199,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3450,34 +2219,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3491,19 +2234,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3523,34 +2254,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-gran.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3564,19 +2269,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3597,35 +2290,9 @@
                   <h3>Companion Marker Granite - HM 150</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3638,20 +2305,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3670,35 +2325,9 @@
                   <h3>Companion Marker Granite - HM 151</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3711,20 +2340,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3744,35 +2361,9 @@
                   <h3>Companion Marker Granite - HM 152</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3785,20 +2376,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3817,35 +2396,9 @@
                   <h3>Companion Marker Granite - HM 153</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3858,20 +2411,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3890,35 +2431,9 @@
                   <h3>Companion Marker Granite - HM 154</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -3931,20 +2446,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -3963,35 +2466,9 @@
                   <h3>Companion Marker Granite - HM 155</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4004,20 +2481,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4036,35 +2501,9 @@
                   <h3>Companion Marker Granite - HM 156</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4077,20 +2516,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4109,35 +2536,9 @@
                   <h3>Companion Marker Granite - HM 157</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4150,20 +2551,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4182,35 +2571,9 @@
                   <h3>Companion Marker Granite - HM 158</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4223,20 +2586,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4255,35 +2606,9 @@
                   <h3>Companion Marker Granite - HM 159</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4296,20 +2621,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4328,35 +2641,9 @@
                   <h3>Companion Marker Granite - HM 160</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4369,20 +2656,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4401,35 +2676,9 @@
                   <h3>Companion Marker Granite - HM 161</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4442,20 +2691,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4474,35 +2711,9 @@
                   <h3>Companion Marker Granite - HM 162</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4515,20 +2726,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4547,35 +2746,9 @@
                   <h3>Companion Marker Granite - HM 163</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4588,20 +2761,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4620,35 +2781,9 @@
                   <h3>Companion Marker Granite - HM 164</h3>
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
                 </div>
+                
+                <?php include("includes/pricing-comp-mark-gran.html");?>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4661,20 +2796,8 @@
                   <p class="call-us">Call us today (615) 299-1535</p>
 
                   <p class="description"></p>
-
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4693,37 +2816,11 @@
               <div class="gallery-body">
                 <div class="title-wrapper title-monument">
                   <h3>Single Marker Bronze - GB 5</h3>
-                  <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
+                  <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1100.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-sing-mark-bron.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4737,19 +2834,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4767,37 +2852,11 @@
               <div class="gallery-body">
                 <div class="title-wrapper title-monument">
                   <h3>Companion Markers Bronze - GB 39</h3>
-                  <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>485.00</span>
+                  <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>2250.00</span>
                 </div>
 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Granite Size - 24" x 12" x 4"</h5>
-                          <ul>
-                            <li><sup>$</sup>485.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>585.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>685.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>795.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Granite Size - 28" x 16" x 4"</h5>
-                            <ul>
-                              <li><sup>$</sup>735.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>875.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>985.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>1195.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
+                <?php include("includes/pricing-comp-mark-bron.html");?>
+
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4811,19 +2870,7 @@
 
                   <p class="description"></p>
 
-                  <p class="description hdr-colors"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4845,48 +2892,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4898,33 +2905,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -4944,48 +2927,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -4997,33 +2940,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5043,48 +2962,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5096,33 +2975,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5142,48 +2997,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5195,33 +3010,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5241,48 +3032,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5294,33 +3045,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5340,48 +3067,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5393,33 +3080,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5439,48 +3102,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5492,33 +3115,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5538,48 +3137,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5591,33 +3150,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5637,48 +3172,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5690,33 +3185,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5736,48 +3207,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5789,33 +3220,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5835,48 +3242,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5888,33 +3255,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -5934,48 +3277,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -5987,33 +3290,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6033,48 +3312,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6086,33 +3325,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6132,48 +3347,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6185,33 +3360,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6231,48 +3382,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6284,33 +3395,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6330,48 +3417,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6383,33 +3430,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6429,48 +3452,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6482,33 +3465,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6527,48 +3486,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6580,33 +3499,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6626,48 +3521,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6679,33 +3534,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6725,48 +3556,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6778,33 +3569,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6824,48 +3591,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6877,33 +3604,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -6923,48 +3626,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -6976,33 +3639,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7022,48 +3661,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7075,33 +3674,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7120,48 +3695,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7173,33 +3708,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7219,48 +3730,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7272,33 +3743,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7318,48 +3765,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7371,33 +3778,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7417,48 +3800,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7470,33 +3813,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7516,48 +3835,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7569,33 +3848,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7615,48 +3870,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7668,33 +3883,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7714,48 +3905,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>895.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 20" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 32" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>895.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1165.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>1565.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 24" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 36" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>975.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>1575.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>1885.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7767,33 +3918,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM100 is an upright granite monument. We offer two standard sizes and a variety granite colors. Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7815,48 +3942,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7868,35 +3955,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -7916,48 +3977,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -7969,35 +3990,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -8017,48 +4012,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -8070,35 +4025,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -8118,48 +4047,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -8171,35 +4060,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -8217,49 +4080,9 @@
                     <h3>Companion Monument - HM 204</h3>
                     <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                   </div>
-                  
-                  <div class="row" style="margin-bottom: 0px;">
-                      <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                            <h5 class="price-granite">Monument Size - Option 1</h5>
+                
+                  <?php include("includes/pricing-monuments.html");?>
   
-                            <ul class="list-mon-options">
-                              <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                              <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                              <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                            </ul>
-                            
-                            <ul>
-                              <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                              <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                              <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                              <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                            </ul>
-                          </span>
-                        </div>
-                      </div>
-                      <div class="col s12 m5">
-                          <div class="card-panel gold">
-                            <span class="white-text">
-                                <h5 class="price-granite">Monument Size - Option 2</h5>
-      
-                                <ul class="list-mon-options">
-                                  <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                  <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                  <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                                </ul>
-                                
-                                <ul>
-                                  <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                  <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                  <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                  <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                                </ul>
-                            </span>
-                          </div>
-                        </div>
-                    </div>
                     <div class="row pay-method-details">
                         <ul class="payMethods">
                             <li class="iconVisa">Visa</li>
@@ -8271,35 +4094,9 @@
                     <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                     <p class="call-us">Call us today (615) 299-1535</p>
   
-                    <p class="description">
-                        Design HM200 is an upright granite monument.
-                        We offer two standard sizes and a variety granite colors.
-                        Custom sizes are also available.</p>
-    
-                    <p class="description">Monuments are available with or without memorial photos.
-                        Photo charges are not included in the monument prices.</p>
-    
-                    <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                      Oval Ceramic Photos</b> are most often used in single monuments.
-                    </p>
-    
-                    <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                    <?php include("includes/desc-monuments.html");?>
   
-                    <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-  
-                    <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-  
-                  <div class="carousel-wrapper">
-                    <div class="carousel">
-                      <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                      <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                      <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                      <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                      <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                      <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                      <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                    </div>
-                  </div>
+                    <?php include("includes/pallette.html");?>
                 </div>
               </div>
             </div>
@@ -8319,48 +4116,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -8372,35 +4129,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -8420,48 +4151,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -8473,35 +4164,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -8521,48 +4186,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -8574,35 +4199,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -8622,48 +4221,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -8675,35 +4234,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
@@ -8723,48 +4256,8 @@
                   <span class="price"><span class="price-start"> starting at</span> <sup>$</sup>1295.00</span>
                 </div>
                 
-                <div class="row" style="margin-bottom: 0px;">
-                    <div class="col s12 m5">
-                      <div class="card-panel gold">
-                        <span class="white-text">
-                          <h5 class="price-granite">Monument Size - Option 1</h5>
+                <?php include("includes/pricing-monuments.html");?>
 
-                          <ul class="list-mon-options">
-                            <li><b><span class="sub-product">Monument</span></b> - 42" x 6" x 20" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                            <li><b><span class="sub-product">Base</span></b> - 60" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                            <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                          </ul>
-                          
-                          <ul>
-                            <li><sup>$</sup>1295.00 - <span class="price-colors">1 color</span></li>
-                            <li><sup>$</sup>1385.00 - <span class="price-colors">2 colors</span></li>
-                            <li><sup>$</sup>2495.00 - <span class="price-colors">3 colors</span></li>
-                            <li><sup>$</sup>3020.00 - <span class="price-colors">4 colors</span></li>
-                          </ul>
-                        </span>
-                      </div>
-                    </div>
-                    <div class="col s12 m5">
-                        <div class="card-panel gold">
-                          <span class="white-text">
-                              <h5 class="price-granite">Monument Size - Option 2</h5>
-    
-                              <ul class="list-mon-options">
-                                <li><b><span class="sub-product">Monument</span></b> - 48" x 6" x 24" <span class="price-colors">(polished front &amp; back, rock top &amp; ends)</span></li>
-                                <li><b><span class="sub-product">Base</span></b> - 66" x 12" x 6" <span class="price-colors">(polished top &amp; rock sides)</span></li>
-                                <li><b><span class="sub-product">Tapered Vase</span></b> - 5" x 4" x 9" <span class="price-colors">(polished front &amp; back, rock sides)</span></li>
-                              </ul>
-                              
-                              <ul>
-                                <li><sup>$</sup>1695.00 - <span class="price-colors">1 color</span></li>
-                                <li><sup>$</sup>2595.00 - <span class="price-colors">2 colors</span></li>
-                                <li><sup>$</sup>3040.00 - <span class="price-colors">3 colors</span></li>
-                                <li><sup>$</sup>3665.00 - <span class="price-colors">4 colors</span></li>
-                              </ul>
-                          </span>
-                        </div>
-                      </div>
-                  </div>
                   <div class="row pay-method-details">
                       <ul class="payMethods">
                           <li class="iconVisa">Visa</li>
@@ -8776,35 +4269,9 @@
                   <p class="no-mar-bot free-ship" style="color: firebrick">FREE SHIPPING 150 mile radius!</p>
                   <p class="call-us">Call us today (615) 299-1535</p>
 
-                  <p class="description">
-                      Design HM200 is an upright granite monument.
-                      We offer two standard sizes and a variety granite colors.
-                      Custom sizes are also available.</p>
-  
-                  <p class="description">Monuments are available with or without memorial photos.
-                      Photo charges are not included in the monument prices.</p>
-  
-                  <p class="description"><b>Our OC-4 ($239.00) and OC-5 ($269.00)
-                    Oval Ceramic Photos</b> are most often used in single monuments.
-                  </p>
-  
-                  <p class="description">Round vases are available for an additional charge. Prices vary by granite color.</p>
+                  <?php include("includes/desc-monuments.html");?>
 
-                  <p class="call-quote">Please call for a quote today (615) 299-1535</p>
-
-                  <p class="description hdr-colors-monuments"><i class="material-icons">undo</i>&nbsp; Swipe left-to-right below to view more available colors &nbsp;<i class="material-icons">redo</i></p>
-
-                <div class="carousel-wrapper">
-                  <div class="carousel">
-                    <a class="carousel-item" href="#one!"><img src="img/colors/1-American-Black-300x200.jpg"></a>
-                    <a class="carousel-item" href="#two!"><img src="img/colors/2-Autumn-Mist-300x200.jpg"></a>
-                    <a class="carousel-item" href="#three!"><img src="img/colors/5-Balmoral-Red-300x200.jpg"></a>
-                    <a class="carousel-item" href="#four!"><img src="img/colors/10-Blue-Pearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/19-CoffeePearl-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/29-Medium-Barre-Grey-300x200.jpg"></a>
-                    <a class="carousel-item" href="#five!"><img src="img/colors/43-Steel-Grey-300x200.jpg"></a>
-                  </div>
-                </div>
+                  <?php include("includes/pallette.html");?>
               </div>
             </div>
           </div>
