@@ -419,6 +419,26 @@ div.title-wrapper-heavenly {
     padding-left: 0px !important;
 }
 
+.side-nav a {
+    color: #f0e8d6;
+}
+
+.side-nav a:hover {
+    color: #ffcc80;
+}
+
+.side-nav {
+    background-color: rgba(163,146,116,0.87);
+}
+
+.side-nav li>a>i, .side-nav li>a>[class^="mdi-"], .side-nav li>a>[class*="mdi-"], .side-nav li>a>i.material-icons {
+    color: #f0e8d6;
+}
+
+.side-nav li>a>i:hover, .side-nav li>a>[class^="mdi-"]:hover, .side-nav li>a>[class*="mdi-"]:hover, .side-nav li>a>i.material-icons:hover {
+    color: #ffcc80;
+}
+
 
 @media only screen and (max-width: 992px) {
     #footer-payment {
