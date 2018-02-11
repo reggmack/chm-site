@@ -457,8 +457,19 @@ div.title-wrapper-heavenly {
         margin: 80px 0 100px 0 !important;
     }
   } */
-  
-  
+
+  @media only screen and (max-width: 1400px) {
+    div.title-wrapper {
+        margin: 60px 0 70px 0 !important;
+    }
+    }
+    
+    @media only screen and (max-width: 1200px) {
+div.title-wrapper-heavenly {
+    margin: 135px 0 0 0 !important;
+}
+}
+
 @media only screen and (min-width: 993px) {
     .container.nav-stretch {
         width: 79%;
@@ -470,6 +481,22 @@ div.title-wrapper-heavenly {
         width: 81%;
     }
 }
+
+
+@media only screen and (max-width: 992px) {
+    div.title-wrapper {
+        margin: 110px 0 10px 0 !important;
+    }
+
+    div.title-wrapper.title-comp-monument {
+        margin: 65px 0 5px 0 !important;
+    }
+
+    div.title-wrapper.title-monument {
+        margin: 150px 0 5px 0 !important;
+    }
+}
+
 
   @media only screen and (max-width: 670px) {
     /* div.title-wrapper {
@@ -504,7 +531,7 @@ div.title-wrapper-heavenly {
   @media only screen and (max-width: 550px) {
     
     div.title-wrapper {
-        margin: 80px 0 20px 0 !important;
+        margin: 40px 0 5px 0 !important;
     }
     
     div.title-wrapper h3 {
@@ -518,6 +545,18 @@ div.title-wrapper-heavenly {
 
     .hdr-colors {
         font-size: 1em !important;
+    }
+
+    div.title-wrapper-heavenly {
+        margin: 85px 0 0 0 !important;
+    }
+
+    div.title-wrapper.title-comp-monument {
+        margin: 30px 0 5px 0 !important;
+    }
+
+    div.title-wrapper.title-monument {
+        margin: 80px 0 5px 0 !important;
     }
 
   }
@@ -535,14 +574,28 @@ div.title-wrapper-heavenly {
 
     nav .brand-logo {
         font-size: 1.875em;
+        margin: 0px 0px 0 -15px;
     }
 
     div.title-wrapper {
-        margin: 80px 0 20px 0 !important;
+        margin: 50px 0 20px 0 !important;
     }
     div.title-wrapper h3 {
         font-size: 1.75em;
     }
+
+    div.title-wrapper.title-monument {
+        margin: 85px 0 20px 0 !important;
+    }
+
+    div.title-wrapper.title-comp-monument {
+        margin: 30px 0 5px 0 !important;
+    }
+
+    div.title-wrapper-heavenly {
+        margin: 85px 0 0 0 !important;
+    }
+        
   }
 
 
@@ -552,7 +605,7 @@ div.title-wrapper-heavenly {
     }
 
     div.title-wrapper {
-        margin: 80px 0 20px 0 !important;
+        margin: 50px 0 20px 0 !important;
     }
     div.title-wrapper h3 {
         font-size: 1.6em;
@@ -573,10 +626,18 @@ div.title-wrapper-heavenly {
     }
 
     div.title-wrapper {
-        margin: 80px 0 20px 0 !important;
+        margin: 30px 0 5px 0 !important;
     }
     div.title-wrapper h3 {
         font-size: 1.4em;
+    }
+
+    div.title-wrapper.title-monument {
+        margin: 50px 0 5px 0 !important;
+    }
+    
+    div.title-wrapper.title-comp-monument {
+        margin: 20px 0 5px 0 !important;
     }
     
     span.price span.price-start {
