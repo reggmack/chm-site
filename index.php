@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="We are a manufacturer and supplier of granite monuments, memorials, headstone markers, tombstones, gravestone, urns, vases, stone cross, benches and granite and marble statues. We understand the importance of family and we design and produce unique memorials that lovingly tell stories in stone.">
+    <meta name="keywords" content="custom memorials, custom headstones, custom tombstones, custom gravestones, granite monuments, memorials, headstone markers, tombstones, gravestones, urns, vases, stone cross, benches, granite statues, marble statues, best headstones, best tombstones, best memorials, headstone design, tombstone design, memorial design, epitaphs, headstone epitaphs">
+    <meta name="author" content="Graphix Ninja">
 
     <title>Heavenly Monuments</title>
     
@@ -21,8 +25,7 @@
         <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
     
         <!-- Prism -->
-        <link href="css/prism.css" rel="stylesheet">
-        
+        <link href="css/prism.css" rel="stylesheet">        
   </head>
 
   <body>

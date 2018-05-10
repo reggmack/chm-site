@@ -23,6 +23,8 @@
     <!-- Prism -->
     <link href="css/prism.css" rel="stylesheet">
 
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
   </head>
 
   <body class="doc">
@@ -43,33 +45,54 @@
                                 <h5>If you have any questions about our products or services please fill out the form below and we will contact you shortly.</h5>
                                 <br>
                                     <!------------------------ NAME ------------------------>
-                                    <div class="input-field col s12">
-                                        <input id="fName" name="fName" type="text" class="validate">
-                                        <label for="fName">Name</label>
+                                    <div class="input-field col s6">
+                                        <input id="fName" name="fName" type="text" class="validate" required>
+                                        <label for="fName">First Name</label>
+                                    </div>
+
+                                    <div class="input-field col s6">
+                                        <input id="lName" name="lName" type="text" class="validate" required>
+                                        <label for="lName">Last Name</label>
                                     </div>
                 
                                     <!------------------------ PHONE ------------------------>
-                                    <div class="input-field col s4">
-                                        <input id="usrBestPhone" type="text" class="recommendedField phone validate" name="usrBestPhone" id="usrBestPhone" maxlength="14">
+                                    <div class="input-field col s6">
+                                        <input id="usrBestPhone" type="text" class="recommendedField phone validate" name="usrBestPhone" id="usrBestPhone" maxlength="14" required>
                                         <label for="usrBestPhone">Phone</label>
                                     </div>
                 
                                     <!------------------------ EMAIL ------------------------>
-                                    <div class="input-field col s8">
-                                        <input id="email" name="email" type="email" class="validate">
+                                    <div class="input-field col s6">
+                                        <input id="email" name="email" type="email" class="validate" required>
                                         <label for="email">Email</label>
                                     </div>
                 
                 
                                     <!------------------------ COMMENTS ------------------------>
                                     <div class="input-field col s12">
-                                        <textarea id="commentBox" name="commentBox"class="materialize-textarea"></textarea>
+                                        <textarea id="commentBox" name="commentBox"class="materialize-textarea" required></textarea>
                                         <label for="commentBox">Questions/Comments:</label>
                                     </div>
+
+                                    <div id="html_element"></div>
                 
-                                    <button class="btn waves-effect waves-light green darken-1" type="submit" name="action">Submit</button>
-                                </div>                
-                            </form> 
+                                    <button id="btnSubmit" class="btn waves-effect waves-light green darken-1 hidden" type="submit" name="action">Submit</button>
+                                </div>
+                                
+                                <div class="g-recaptcha" data-sitekey="6Ld8-EkUAAAAAFBAlz7sXD_IoPNDLtJ6x3gmpA0f" data-callback="recaptchaCallback"></div>
+                            </form>
+
+                            <script>
+                                function recaptchaCallback() {
+                                    var googleResponse = jQuery('#g-recaptcha-response').val();
+                                    if (!googleResponse) {
+                                        $('<p style="color:red !important" class=error-captcha"><span class="glyphicon glyphicon-remove " ></span> Please fill up the captcha.</p>" ').insertAfter("#html_element");
+                                        return false;
+                                    } else {            
+                                        return true;
+}
+                                }
+                            </script>
                         </div>
 
 

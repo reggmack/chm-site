@@ -19,7 +19,9 @@
     margin: 0;
 }
 .epitaph-desc {
-    margin: 0 0 4px 0;
+    margin: 0 0 14px 0;
+    padding: 0 0 7px 0;
+    border-bottom: 1px dotted #f0e8d6;
 }
 .desc-verse {
     margin: 0 0 7px 0;

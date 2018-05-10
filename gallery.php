@@ -4284,48 +4284,7 @@
 
     </div><!-- /.container -->
 
-    <footer class="page-footer orange">
-        <div class="container">
-          <div class="row">
-            <div class="col l6 s12">
-              <h5 class="white-text italianno">Clarksville Highway Memorials</h5>
-              <p class="grey-text text-lighten-4" style="margin: 0 0 0 0;">4028 Clarksville Pike</p>
-              <p class="grey-text text-lighten-4" style="margin: 0 0 0 0;">Nashville, TN 37218-1912</p>
-              <p class="grey-text text-lighten-4" style="margin: 0 0 0 0;">(615) 299-1535</p>
-              <p class="grey-text text-lighten-4" style="margin: 0 0 0 0;">(615) 299-1557 <span class="light-wheat">Fax</span></p>
-              <p class="grey-text text-lighten-4" style="margin: 0 0 0 0;"><a href="mailto:info@chmemorials.com">info@chmemorials.com</a></p>
-            </div>
-            <div class="col l3 s12" id="footer-payment">
-              <h5 class="white-text cinzel">Payment Options</h5>
-              <ul id="payMethods">
-                <li class="iconVisa">Visa</li>
-                <li class="iconMastercard">Mastercard</li>
-                <li class="iconDiscover">Discover</li>
-                <li class="iconAmex">American Express</li>
-              </ul>
-            </div>
-            <div class="col l3 s12" id="footer-connect">
-              <h5 class="white-text cinzel">Connect</h5>
-              <ul id="socialLinks">
-                <li><a href="http://www.facebook.com/" target="_blank" class="iconFacebook">Facebook</a></li>
-                <li><a href="http://www.instagram.com/" target="_blank" class="iconInstagram">Instagram</a></li>
-                <li><a href="http://www.twitter.com/" target="_blank" class="iconTwitter">Twitter</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="footer-copyright">
-          <div class="container">
-          crafted by <a class="orange-text text-lighten-3" href="#">Graphix Ninja</a>
-          </div>
-        </div>
-      </footer>
-
-
-
-
-
-
+    <?php include("includes/footer.html");?> 
 
     <!-- Core Javascript -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
